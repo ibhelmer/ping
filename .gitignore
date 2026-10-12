@@ -1,0 +1,17 @@
+# Python-cache
+__pycache__/
+*.py[cod]
+
+# Lokale virtuelle miljøer
+.venv/
+venv/
+env/
+
+# Lokale indstillinger og miljøvariabler
+.env
+.idea/
+.vscode/
+
+# Operativsystemfiler
+.DS_Store
+Thumbs.db
